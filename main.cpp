@@ -3,8 +3,6 @@
 #include "testquery.h"
 #include <assert.h>
 
-using namespace std;
-
 int main()
 {
     SqlSelectQueryBuilder query_builder;
