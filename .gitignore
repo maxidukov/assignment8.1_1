@@ -1,0 +1,4 @@
+CMakeLists.txt.user
+build/
+testquery_dbo.h
+studentstable_dbo.h
